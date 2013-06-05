@@ -1,0 +1,20 @@
+错误sql语句：
+INSERT nx76com (id,cid,parent_cid,name) VALUES ('','14','0','新类目')
+客户IP:127.0.0.1
+时间 :2013-04-18 02:57:42
+
+错误sql语句：
+INSERT tb_shopcats(id,cid,parent_cid,name) VALUES ('','','','')
+客户IP:127.0.0.1
+时间 :2013-04-18 03:55:20
+
+错误sql语句：
+INSERT tb_shopcats(id,cid,parent_cid,name) VALUES ('','','','')
+客户IP:127.0.0.1
+时间 :2013-04-18 03:56:24
+
+错误sql语句：
+INSERT tb_shopcats(id,cid,parent_cid,name) VALUES ('','','','')
+客户IP:127.0.0.1
+时间 :2013-04-18 03:56:24
+
